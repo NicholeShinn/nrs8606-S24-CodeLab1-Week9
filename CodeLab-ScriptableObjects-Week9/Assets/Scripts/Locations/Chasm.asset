@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0cfe6e2fb3b42bc829fb79c2f6ff2a, type: 3}
+  m_Name: Chasm
+  m_EditorClassIdentifier: 
+  backgroundSprite: {fileID: 21300000, guid: b6c3f0f6a799a440fab7324ea74ad213, type: 3}
+  locationName: Chasm Overlook
+  locationDesc: You're at the precipice of a great chasm...
+  north: {fileID: 11400000, guid: 0eb14d3fe78854836a173d59a4f756f6, type: 2}
+  south: {fileID: 11400000, guid: 059578b484b764a84a4b4ca82283cb7e, type: 2}
+  east: {fileID: 11400000, guid: 1e8271bd5ba1d42e794b6b60ab7703e0, type: 2}
+  west: {fileID: 11400000, guid: eb86d2661c24a47a69e563cbf8de3d1b, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0cfe6e2fb3b42bc829fb79c2f6ff2a, type: 3}
+  m_Name: SmallPath
+  m_EditorClassIdentifier: 
+  backgroundSprite: {fileID: 21300000, guid: 2b1be066f5ddd43979dc87e2536cec34, type: 3}
+  locationName: 'Small Path '
+  locationDesc: you walk on a trecherous and small path...unknowing where it will
+    lead...
+  north: {fileID: 0}
+  south: {fileID: 0}
+  east: {fileID: 11400000, guid: 67942f45b6130439586b9749926d6109, type: 2}
+  west: {fileID: 11400000, guid: 1e8271bd5ba1d42e794b6b60ab7703e0, type: 2}

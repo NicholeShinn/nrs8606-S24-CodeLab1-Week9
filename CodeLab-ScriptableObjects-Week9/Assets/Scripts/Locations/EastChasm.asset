@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e0cfe6e2fb3b42bc829fb79c2f6ff2a, type: 3}
+  m_Name: EastChasm
+  m_EditorClassIdentifier: 
+  backgroundSprite: {fileID: 21300000, guid: dcdf04382a53049e3818f618df2a1d56, type: 3}
+  locationName: East Chasm
+  locationDesc: You can make out a small path through the expanse of cliffs....
+  north: {fileID: 0}
+  south: {fileID: 0}
+  east: {fileID: 11400000, guid: 06dc0f5a951844139a61383796bab50e, type: 2}
+  west: {fileID: 11400000, guid: e3fd47dd6f0644b1ba52d4f92ca810cd, type: 2}
